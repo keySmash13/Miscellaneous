@@ -3,12 +3,12 @@ flags = -Wall -std=c++17
 compile = $(compiler) $(flags) -c
 link = $(compiler) $(flags)
 
-ProjectOne : ProjectOne.o
+MathTester : MathTester.o
 	$(link) $^ -o $@
 	./$@
 
-ProjectOne.o : ProjectOne.cc ProjectOne.h
+MathTester.o : MathTester.cc MathTester.h
 	$(compile) $<
 
 clean :
-	rm *.o ProjectOne
+	rm *.o MathTester

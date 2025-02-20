@@ -5,7 +5,7 @@ problems, check their work, and show the steps if incorrect.
 ## To Run
 This project uses c++ and is best run in Linux. Download all files and run the following command:
 ```bash
-make ProjectOne
+make MathTester
 ```
 
 ## To Finish
