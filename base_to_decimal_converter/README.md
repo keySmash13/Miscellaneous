@@ -11,9 +11,9 @@ g++ program1.cc
 ```bash
 number base y/n
 ```
-number: the number you would like converted<br />
-base: the base that the number is in<br />
-y/n: choose if you would like to enter another number<br />
+number: the number you would like converted  
+base: the base that the number is in  
+y/n: choose if you would like to enter another number  
 
 For example, this input:
 ```bash
