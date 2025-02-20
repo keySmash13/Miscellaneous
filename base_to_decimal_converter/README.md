@@ -17,16 +17,6 @@ y/n: choose if you would like to enter another number
 
 For example, this input:
 ```bash
-1010 2 n
-```
-Will have the output:
-```bash
-10
-Of the 1 values input, the 1st value entered (10) was the largest
-```
-
-This input:
-```bash
 -1101 2 y
 1205 6 y
 7517 9 n
